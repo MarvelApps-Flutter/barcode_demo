@@ -31,13 +31,12 @@ A Barcode appwhich which can scan & generate barcode
 
 <table>
   <tr>
-    <td><img src="https://github.com/MarvelApps-Flutter/barcode_demo/blob/master/screenshot/ios/ios1.png" height="480px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/barcode_demo/blob/master/screenshot/ios/ios1.png" height="480px"</td>
     <td><img src="https://github.com/MarvelApps-Flutter/barcode_demo/blob/master/screenshot/ios/ios2.png" height="480px"></td>
-        <td>https://github.com/MarvelApps-Flutter/barcode_demo/blob/master/screenshot/ios/ios3.png" height="480px"></td>
+  <td><img src="https://github.com/MarvelApps-Flutter/barcode_demo/blob/master/screenshot/ios/ios3.png" height="480px"></td>
 </tr>
-<tr>
-    <td><img src="https://github.com/MarvelApps-Flutter/barcode_demo/blob/master/screenshot/ios/ios4.png" height="480px"></td>
-    <td><img src="https://github.com/MarvelApps-Flutter/barcode_demo/blob/master/screenshot/ios/ios5.png" height="480px"></td>
-        <td>https://github.com/MarvelApps-Flutter/barcode_demo/blob/master/screenshot/ios/ios6.png" height="480px"></td>
+ <tr>
+    <td><img src="https://github.com/MarvelApps-Flutter/barcode_demo/blob/master/screenshot/ios/ios4.png" height="480px"</td>
+  <td><img src="https://github.com/MarvelApps-Flutter/barcode_demo/blob/master/screenshot/ios/ios6.png" height="480px"></td>
 </tr>
  </table>
